@@ -61,3 +61,13 @@
     - Do you need proof of vaccine?
     - Check for France, Switzerland, and any layover countries you may stop at. 
   - You can also check the current [CERN Covid Status](https://hse.cern/covid-19-information) page to see if there are any COVID restirctions when you arrive. 
+## 6. Before Travel Checks
+  - Email the User's Office to ensure all paperwork is done. 
+  - Contact your bank and let them know you will be travelling. This will make sure your credit/debit cards don't get frozen. 
+  - Get your cell-phone plan situated. Some options are listed below:
+    - Look into the interantional plan with your current provider.
+    - Get an e-Sim (Orange mobile has some very good options for people travelling less than 90 days). 
+    - Purchase a Sim card in Geneva (probably better for people staying longer term). 
+  - Don't forget any medications.
+  - Don't forget to get two adapters for Switzerland and France. Two-prong cables are the same in Swiss/France but 3-prongs are different. 
+    - **Note:** Older electronics may not be able to handle the higher voltage in Europe. Newer laptops, phones, and such will be fine. 
