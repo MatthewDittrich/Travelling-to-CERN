@@ -55,3 +55,9 @@
   - As the student, your part is to fill out a home institution declaration form ([HID form](https://usersoffice.web.cern.ch/sites/default/files/pdf/Formalities/HomeInstitutionDeclarationforUO.pdf)). This form will be needed when the pre-registration form is submitted by the team leader or assistant team leader. 
   - **TIP:** You will likely need to keep reminding the team leader about getting this pre-registration form filled out and completed (professors are quite busy), but it is important that you do so!
   - **TIP #2:** Email the CERN User's Office when the pre-registration is completed. Ask them if everything looks good for you to arrive on-site and get your access card. What may happen (and has happened to some of us) is they will inform you that the pre-registration was done improperly or more paperwork needs to be done. Better safe than sorry!
+## 5. COVID Checks
+  - It is best to check on any COVID restrictions that may exist for your travel.
+    - Are you required to show a negative test?
+    - Do you need proof of vaccine?
+    - Check for France, Switzerland, and any layover countries you may stop at. 
+  - You can also check the current [CERN Covid Status](https://hse.cern/covid-19-information) page to see if there are any COVID restirctions when you arrive. 
