@@ -71,3 +71,23 @@
   - Don't forget any medications.
   - Don't forget to get two adapters for Switzerland and France. Two-prong cables are the same in Swiss/France but 3-prongs are different. 
     - **Note:** Older electronics may not be able to handle the higher voltage in Europe. Newer laptops, phones, and such will be fine. 
+## 7. Arrival Day 
+  - ### Phone a Friend
+    - If possible, see if another UF graduate student can meet up with you at the Geneva airport. Ideally, they would help you travel from the airport to CERN, and guide you along the initial steps to getting settled at CERN. 
+  - ### Airport -> CERN
+    - TPG (Bus/Tram System)
+      - Easiest path from airport arrivals is to follow signs to rental car counters, then exit terminal and walk to the road (on left) where there is a bus stop. Take any bus that stops there except 10 (Buses 23, 28, 57) and exit at “Blandonnet”. Then take stairs up to tram station. Take Tram 18 to CERN (the last stop!) Take the direction heading west away from downtown.
+    - Taxi
+      - Most expensive option, but maybe the easiest depending on the time of day you arrive. Tell the driver you are wanting to go to CERN. 
+    - CERN Shuttle
+      - CERN does offer a free shuttle service. As of July 2022, this service has been temporarily disabled. Please check [this link](https://sce-dep.web.cern.ch/mobility/shuttle/circuit-4) to see if Circuit 4 is up and running again. 
+    - Uber
+  - ### Getting Your CERN Access Card (and Dosimeter if Needed)
+    1. Head to BLDG 33 (across from the huge, iconic Globe of Science and Innovation).
+        - Show your pre-registration form and passport to get a visitor's pass to enter the CERN site (they may ask for other documents so be prepared). 
+    2. Head to BLDG 61 and look for the User's office to finish your registration. 
+        - BLDG 61 is very close to Restuarant 1, the CERN library, and many other main attractions. 
+    3. Head to BLDG 55 to get your official CERN Access Card. 
+        - BLDG 55 is accessible 'outside' the CERN gates. Head back to BLDG 33, walk outside towards the blue dipole magnet, and you will see BLDG 55 in front of you. 
+    4. Dosimeter
+        - If needed, head upstairs in BLDG 55 to obtain a temporary Dosimeter. 
