@@ -146,4 +146,16 @@
     - Radiation and beam studies for the CSCs are conducted here. You will be explicitly told by your advisor if you need to go to this site. 
   - [More Information on the different points](https://voisins.cern/en/cern-local-area)
 ## 13. Join a Club!
-  - 
+  - CERN offers tons of [clubs](https://indico.cern.ch/category/426/) (some of which are not even on that page). Even if you are only visiting for a couple of weeks, these clubs are a lot of fun! It is a great way to meet people and become active in the CERN community. 
+## 14. Random (But Very Practical) Information
+  - Tap water is safe to drink in Switzerland and France.
+  - Time is typically given in 24 hour (military) format. 
+  - CERN restaurants do accept credit cards, Apple pay, and Google pay. 
+  - Dates are typically written in dd.mm.yyyy format. 
+  - French is offically spoken in Switzerland and France, but CERN staff will know enough English to get by. 
+  - There is a TPG app for the Geneva rail/bus system. 
+  - There is a MapCERN app that can be handy if you are lost on one of the CERN sites (although all CERN sites have wifi, so it is not a huge help). 
+  - You should bring some Swiss Francs and Euros for shops and such. 
+  - If you are bringing a spouse/SO, they are eligible for a spouse access card so they can visit CERN sites as well. 
+## 15. Stay Connected!
+  - [CMS PubTalk](https://cms-talk.web.cern.ch/) is a great way to stay connected with the research area you are interested in. Use this site to keep up with talks and other events. 
