@@ -57,12 +57,24 @@
   - **TIP #2:** Email the CERN User's Office when the pre-registration is completed. Ask them if everything looks good for you to arrive on-site and get your access card. What may happen (and has happened to some of us) is they will inform you that the pre-registration was done improperly or more paperwork needs to be done. Better safe than sorry!
 
 ## 5. Place to Stay
+  - You should talk with your advisor about where you will be staying. Overall though, there are two main options that you have. It is also a good idea to talk with other graduate students about where they have stayed to get a feel for what may suit you best. 
   - ### On CERN Site:
     - Pros
+      - Very close to eveything you will need for research and work. 
+      - Very good price.
+      - Close to busses and tram for travel to Geneva. 
     - Cons
+      - If you are bringing spouse/SO, can be difficult to get larger room. 
+      - Grocery stores tend to be farther away. 
+      - If you are primarily working at Prevessin site or P5, travel can be a bit long. 
   - ### Off CERN Site:
     - Pros
-    - Cns
+      - Lots of options.
+      - Easier to find larger room.
+      - Can be close to Prevessin site and/or P5. 
+    - Cons
+      - Can be a bit more pricy (especially as you get closer to Geneva).
+      - Subject to availability. 
 
 
 ## 6. Safety and Introduction Courses
@@ -124,4 +136,14 @@
     - This service does not allow you to travel for personal reasons. Cars should stay on CERN sites only unless travelling from one CERN site to another. 
     - **NOTE:** All of their cars are manuals. 
   - Rental Car
-    - Most costly option, but may be a good idea for weekend trips with friends (split cost?). There are many rental car companies at the Geneva airport. 
+    - Most costly option, but may be a good idea for weekend trips with friends (split cost?). There are many rental car companies at the Geneva airport.
+## 12. CERN Sites (Points)
+  - Meyrin Site
+    - This is Point 1, and will most likely be your main site. This site is right on the border of France and Switzerland. You can find the hostels, restaurants 1 and 2, CERN library, Users Office, and much more here. 
+  - Point 5
+    - The *home* of the CMS detector. Here you will probably be running shifts, or you may be getting (or giving!) a tour of the CMS detector. 
+  - Prevessin Site
+    - Radiation and beam studies for the CSCs are conducted here. You will be explicitly told by your advisor if you need to go to this site. 
+  - [More Information on the different points](https://voisins.cern/en/cern-local-area)
+## 13. Join a Club!
+  - 
