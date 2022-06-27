@@ -56,19 +56,27 @@
   - **TIP:** You will likely need to keep reminding the team leader about getting this pre-registration form filled out and completed (professors are quite busy), but it is important that you do so!
   - **TIP #2:** Email the CERN User's Office when the pre-registration is completed. Ask them if everything looks good for you to arrive on-site and get your access card. What may happen (and has happened to some of us) is they will inform you that the pre-registration was done improperly or more paperwork needs to be done. Better safe than sorry!
 
+## 5. Place to Stay
+  - ### On CERN Site:
+    - Pros
+    - Cons
+  - ### Off CERN Site:
+    - Pros
+    - Cns
 
-## 5. Safety and Introduction Courses
+
+## 6. Safety and Introduction Courses
   - Once you have your computing account and pre-registration completed, it would be a good idea to knock out your mandatory [safety courses](https://lms.cern.ch/ekp/servlet/ekp/WIDGETCONTAINERPAGE?DECORATEPAGE=Y). 
   - If you are working in an area with high radiation (or you are required to have a dosimeter), you may also need to complete the Radiation Area - Supervised Area course. 
   
 
-## 6. COVID Checks
+## 7. COVID Checks
   - It is best to check on any COVID restrictions that may exist for your travel.
     - Are you required to show a negative test?
     - Do you need proof of vaccine?
     - Check for France, Switzerland, and any layover countries you may stop at. 
   - You can also check the current [CERN Covid Status](https://hse.cern/covid-19-information) page to see if there are any COVID restirctions when you arrive. 
-## 7. Before Travel Checks
+## 8. Before Travel Checks
   - Email the User's Office to ensure all paperwork is done. 
   - Contact your bank and let them know you will be travelling. This will make sure your credit/debit cards don't get frozen. 
   - Get your cell-phone plan situated. Some options are listed below:
@@ -78,7 +86,7 @@
   - Don't forget any medications.
   - Don't forget to get two adapters for Switzerland and France. Two-prong cables are the same in Swiss/France but 3-prongs are different. 
     - **Note:** Older electronics may not be able to handle the higher voltage in Europe. Newer laptops, phones, and such will be fine. 
-## 8. Arrival Day 
+## 9. Arrival Day 
   - ### Phone a Friend
     - If possible, see if another UF graduate student can meet up with you at the Geneva airport. Ideally, they would help you travel from the airport to CERN, and guide you along the initial steps to getting settled at CERN. 
   - ### Airport -> CERN
@@ -98,16 +106,19 @@
         - BLDG 55 is accessible 'outside' the CERN gates. Head back to BLDG 33, walk outside towards the blue dipole magnet, and you will see BLDG 55 in front of you. 
     4. Dosimeter
         - If needed, head upstairs in BLDG 55 to obtain a temporary Dosimeter. 
-## 9. Requesting Access to Buildings
+## 10. Requesting Access to Buildings
   - Your access card will allow you to enter most buildings on every CERN site.
   - ### Labs / Research Buildings
     - There may be specific research you are doing that will require access to a certain building (ask other graduate students or your advisor if you are not sure). 
       - If this is the case, you will need to [request access to that building](https://apex-sso.cern.ch/pls/htmldb_edmsdb/f?p=ADAMS3:ACRQ:1984281760736:::::). 
+  - ### Office Space
     - You may also want to ensure that you have an office space when you are at CERN. 
       - Ask you advsior or other graduate students what offices they suggest. Ask around and see if there is an open desk with someone from UF already stationed at CERN. 
       - Request access to that office via [this link](https://apex-sso.cern.ch/pls/htmldb_edmsdb/f?p=ADAMS3:ACRQ:1984281760736:::::). 
-## 10. Get Yourself Some Wheels
-  - CERN Bike
+## 11. Get Yourself Some Wheels
+  - [CERN Bike](https://sce-dep.web.cern.ch/mobility/bike-rental)
+    - CERN offers a rental bike service.
+      - Fees are dependent on the time of year when you are renting the bike (never more than 1 CHF per day though). 
   - [CERN Car](https://home.cern/news/official-news/cern/use-car-sharing-service#:~:text=13%20January%2C%202020,service%20is%20being%20increasingly%20abused.)
     - CERN offers free cars that you can take from one CERN site to another.
     - This service does not allow you to travel for personal reasons. Cars should stay on CERN sites only unless travelling from one CERN site to another. 
